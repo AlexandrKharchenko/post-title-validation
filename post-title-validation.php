@@ -28,6 +28,6 @@ add_action( 'admin_enqueue_scripts', 'post_title_validation_function' );
 
 function post_title_validation_function($hook){
 	if( 'post.php' != $hook && 'edit.php' != $hook && 'post-new.php' != $hook)
-        return;
+        return false;
 	wp_enqueue_script( 'custom_admin_script',  plugins_url('/js/post-title-validation.js', __FILE__));
 }

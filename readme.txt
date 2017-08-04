@@ -3,8 +3,8 @@ Contributors: Alexandr Kharchenko
 Tags: Title validation, Post, Page, validation
 Requires at least: 3.5.1
 Tested up to: 4.7
-Stable tag: 1.0
-Version: 1.0
+Stable tag: 1.1
+Version: 1.2
 License: GPLv2 or later
 
 Plugin checks for the filled page or post title.

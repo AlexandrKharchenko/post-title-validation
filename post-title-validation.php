@@ -3,7 +3,7 @@
 Plugin URI: https://github.com/AlexandrKharchenko
 Description: This plugin validate post and page title field. It will also work for custom content type.
 Author: Alexandr Kharchenko
-Version: 1.0
+Version: 1.2
 Author URI: https://github.com/AlexandrKharchenko
 */
 
